@@ -1,0 +1,10 @@
+.navBar {
+	grid-area: navBar;
+	background-color: yellow;
+	display: inline-block;
+}
+
+.img {
+	width: 40px;
+	height: 40px;
+}
